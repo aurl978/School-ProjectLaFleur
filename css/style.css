@@ -7,13 +7,7 @@ html, body{
 
 body {
 	display : table;
-	width: 100%;
-	background: linear-gradient(-45deg, #FF0000, #FF4000, #FF8000, #FFBF00, #FFFF00, #BFFF00, #80FF00, #00FF80, #00FFBF, #00FFFF, #0174DF, #0101DF, #3A01DF, #7401DF, #B404AE, #DF01A5, #FF0080, #FF0040);
-background-size: 400% 400%;
--webkit-animation: Gradient 20s ease infinite;
--moz-animation: Gradient 20s ease infinite;
-animation: Gradient 20s ease infinite;
-}
+
 }
 
 @-webkit-keyframes Gradient {
